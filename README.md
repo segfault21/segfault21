@@ -14,7 +14,6 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
           
-🔭I am currently working on a production process management service
 <!--
 **segfault21/segfault21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
